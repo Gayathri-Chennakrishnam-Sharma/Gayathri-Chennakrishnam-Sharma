@@ -37,5 +37,5 @@ You can find me on  [![Twitter][1.2]][1] , or on  [![LinkedIn][2.2]][2].
 </a> -->
 
 
-Happy coding :)
+<h4>💜 Happy coding :) </h4>
 
