@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Chennakrishnam&theme=dark&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Chennakrishnam-au16&theme=dark&show_icons=true" />
 
 <!-- Links to your social media accounts -->
 
