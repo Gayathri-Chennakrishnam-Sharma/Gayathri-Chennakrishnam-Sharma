@@ -23,9 +23,9 @@ You can find me on  [![Twitter][1.2]][1] , or on  [![LinkedIn][2.2]][2].
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Chennakrishnam-au16&theme=synthwave&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Chennakrishnam-Sharma&theme=synthwave&show_icons=true" />
 
-![Gayathri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Chennakrishnam-au16&show_icons=true&theme=synthwave)
+![Gayathri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Chennakrishnam-Sharma&show_icons=true&theme=synthwave)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
