@@ -1,6 +1,9 @@
 <h1><img align= "center" src="https://res.cloudinary.com/dpzf9febe/image/upload/c_scale,w_147/v1628745605/micky_1_zxv20j.gif"> Hi....</h1>
 
 <h3>🙌🏽 hope y'all are having a good day.</h3>
+<h3>P.S:Something that has stuck with me for the longest time and i don't mind repeating it like Lady Gaga:</h3>
+<h2>"THE DREAM IS FREE, BUT THE HUSTLE IS SOLD SEPARATELY"</h2>
+
 <!-- <h5>I just want to say...</h5>
 <img align= "center" src= "https://res.cloudinary.com/dpzf9febe/image/upload/c_scale,w_171/v1628745983/Screenshot_2021-08-12_at_10.55.37_AM_goidua.png">
 
@@ -36,6 +39,6 @@ You can find me on  [![LinkedIn][2.2]][2].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gayathri-Chennakrishnam-au16&repo=convoychat" />
 </a> -->
 
-
+<h4>Always learning something new 🎉</h4>
 <h4>💜 Happy coding :) </h4>
 
