@@ -1,7 +1,7 @@
 <h1><img align= "center" src="https://res.cloudinary.com/dpzf9febe/image/upload/c_scale,w_147/v1628745605/micky_1_zxv20j.gif"> Hi....</h1>
 
 <h3>🙌🏽 hope y'all are having a good day.</h3>
-<h3>P.S:Something that has stuck with me for the longest time and i don't mind repeating it like Lady Gaga:</h3>
+<h3>P.S:Something that has stuck with me for the longest time and I don't mind repeating it like Lady Gaga:</h3>
 <h2>"THE DREAM IS FREE, BUT THE HUSTLE IS SOLD SEPARATELY"</h2>
 
 <!-- <h5>I just want to say...</h5>
